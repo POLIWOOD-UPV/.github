@@ -69,7 +69,7 @@ git clone https://github.com/POLIWOOD-UPV/salon-comic <nombre_carpeta>
    git commit -m "mensaje relevante"
    ```
    > 📝 El mensaje debe explicar lo que hiciste en **una frase breve**.  
-   > Ejemplo: `corrige bug en overlay de ffmpeg`
+   > Ejemplo: `Dockerfile actualizado con X docker`
 5. Envía tus cambios al repositorio remoto:
    ```bash
    git push origin main
@@ -99,7 +99,6 @@ git clone https://github.com/POLIWOOD-UPV/salon-comic <nombre_carpeta>
 ## 📌 Notas finales
 - Usa siempre mensajes de commit relevantes.  
 - Antes de empezar a trabajar, haz siempre `git pull` para traer lo último.  
-- ⚠️ En proyectos Node.js recuerda ejecutar `npm install` al arrancar y crear una carpeta `logs` en la raíz si no existe.  
 - Si tienes dudas, pregunta al equipo — la idea es que tod@s aprendamos.
 
 ---
